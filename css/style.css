@@ -2,3 +2,27 @@
     display: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+#word{
+    margin-left: 60%;
+    margin-top: 5%;
+}
+#clock{
+    margin-top: 5%;
+    margin-bottom: 1.5%;
+    padding-left: 15%;
+    font-size: 500%;
+    font-weight: bold;
+    color: beige;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#login-form{
+    padding-left: 17%;
+    padding-top: 0%;
+    padding-bottom: 1%;
+}
+#greeting{
+    padding-left: 17%;
+}
+#todo-form{
+    padding-left: 17%;
+}
