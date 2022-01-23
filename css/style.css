@@ -25,6 +25,12 @@ footer{
     padding-left: 2%;
     text-align: right;
 }
+#word{
+    font-family: 'Luxurious Roman', cursive;
+}
+#bible{
+    font-family: 'Luxurious Roman', cursive;
+}
 
 #clock{
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
@@ -33,6 +39,7 @@ footer{
     margin-top: 12%;
     margin-bottom: 2%;
     font-size: 700%;
+    font-family: 'Fugaz One', cursive;
     text-align: center;
     color: white;
     border: 2px solid rgb(73, 72, 72);
@@ -62,6 +69,7 @@ footer{
     padding-top: 3%;
     padding-bottom: 1.5%;
     margin-bottom: 0%;
+    font-family: 'Lobster', cursive;
 }
 
 .todo{
@@ -91,6 +99,7 @@ footer{
     text-align: left;
     padding-left: 3%;
     margin-left: 20%;
+    font-family: 'Gowun Dodum', sans-serif;
 }
 
 button{
